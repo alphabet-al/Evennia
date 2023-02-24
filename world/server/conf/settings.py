@@ -32,8 +32,7 @@ from evennia.settings_default import *
 ######################################################################
 
 # This is the name of your game. Make it catchy!
-SERVERNAME = "mygame"
-BASE_CHARACTER_CLASS = "dungeon.characters.DungeonCharacter"
+SERVERNAME = "world"
 
 
 ######################################################################
